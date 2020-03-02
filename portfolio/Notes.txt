@@ -1,0 +1,20 @@
+Media querie used on line 61, max-width 480 px.
+
+Media queries started at line 118, 126, and line 134. Each varying max-widths.
+
+MQ at line 229.
+
+MQ Screen line 351.
+
+MQ's lines 707 and 715.
+
+MQ line 845.
+
+MQ's lines 1214, 1222, 1230.
+
+
+
+????? What is ms-viewport? ?????
+
+"em's" used throughout.
+
